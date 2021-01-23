@@ -1,7 +1,0 @@
-##欢迎来到 Emm-Design 组件库
-需要**React >= 16.8.0**
-
-##安装
-```
-npm install emm-design --save
-```
