@@ -10,4 +10,4 @@ npm install emm-design --save
 ```
 
 ## 使用
-📕[文档](emiliazhen.github.io/doc-emm-design)
+📕[文档](https://emiliazhen.github.io/doc-emm-design)
